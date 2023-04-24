@@ -753,7 +753,8 @@ body {
   .contact button {
     background: #18aad2;
     border: 0;
-    padding: 4px 30px;
+    width: 12.85em;
+    
     color: #fff;
     transition: 0.4s;
     border-radius: 4px;
@@ -897,7 +898,7 @@ body {
       transform: rotate(360deg);
     }
   }
-  
+   
   /*--------------------------------------------------------------
   # Credits
   --------------------------------------------------------------*/

@@ -750,6 +750,17 @@ body {
   /*--------------------------------------------------------------
   # Contact
   --------------------------------------------------------------*/
+  .contact button {
+    background: #18aad2;
+    border: 0;
+    padding: 4px 30px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 4px;
+  }
+  .contact button:hover {
+    background: #1894d2;
+  }
   .contact .info-box {
     color: #444444;
     padding: 20px;
